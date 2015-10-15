@@ -1,0 +1,9 @@
+{
+    "name": "avs/test2",
+    "type": "magento-module",
+    "description": "Test2",
+    "homepage": "https://github.com/avstudnitz/test2",
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "2.1.1"
+    }
+}
